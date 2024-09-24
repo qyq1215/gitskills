@@ -1,2 +1,4 @@
 # gitskills
-练习git的使用
+
+练习 git 的使用
+协作练习
